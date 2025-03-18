@@ -28,7 +28,7 @@ except FileNotFoundError:
     attendance = {}
 
 # ESP32-CAM IP for image capture
-camera_ip = "http://10.10.53.110/capture"
+camera_ip = "http://10.10.53.116/capture"
 
 print("Press 'q' to exit")
 
